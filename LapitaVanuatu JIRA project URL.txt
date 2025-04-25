@@ -1,0 +1,4 @@
+LapitaVanuatu JIRA managed Manual Testing Project URL
+Contain: Test Cases , Bug reports managed by JIRA project management tool
+
+https://simotamas2007.atlassian.net/jira/software/c/projects/QMTL/boards/199/backlog?epics=visible&issueParent=10274
