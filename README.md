@@ -10,5 +10,5 @@ by rural farmers and all products maintain unique and authentic flavours of Vanu
 
 Repository of LapitavanuatuManualTesting project contain delivrables:
 1 excel doc. LapitavanuatuManualTestingDeliverables contain: R.T.M. Lapitavanuatu , TEST PLAN Lapitavanuatu , TEST CASES Lapitavanuatu , Lapita BUG reports , Test Execution Report
-2 LapitavanuatuMantishubBugReports: Folder of Screenshots of BUG reports created by MANTIS bugtracking tool
-3 Link of Jira project displaying test cases and bug reports created by JIRA testing project managemment tool NOTEPAD DOCUMENT 
+2 jpeg doc. LapitavanuatuMantishubBugReports: Screenshots of BUG reports by MANTIS, MANTISHUB bugtracking tool
+3 Url. of Lapitavanuatu Jira managed project: Test cases and Bug reports created by JIRA project managemment tool
