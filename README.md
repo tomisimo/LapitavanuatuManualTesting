@@ -8,7 +8,7 @@ snacks & gluten-free baking products.
 All products are processed using natural ingredients which are organically-grown and freshly-harvested 
 by rural farmers and all products maintain unique and authentic flavours of Vanuatu.
 
-This repository of LapitavanuatuManualTesting project contain the following documents:
-1 LapitavanuatuManualTestingDeliverables excel document contain testing deliverables: R.T.M. Lapitavanuatu , TEST PLAN Lapitavanuatu , TEST CASES Lapitavanuatu , Lapita BUG reports , Test Execution Report
+Repository of LapitavanuatuManualTesting project contain delivrables:
+1 excel doc. LapitavanuatuManualTestingDeliverables contain: R.T.M. Lapitavanuatu , TEST PLAN Lapitavanuatu , TEST CASES Lapitavanuatu , Lapita BUG reports , Test Execution Report
 2 LapitavanuatuMantishubBugReports: Folder of Screenshots of BUG reports created by MANTIS bugtracking tool
 3 Link of Jira project displaying test cases and bug reports created by JIRA testing project managemment tool NOTEPAD DOCUMENT 
